@@ -1,0 +1,18 @@
+button {
+    background-color: #FF389C;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:focus {
+    outline: 2px solid pink;
+  }
+  
+  .outline {
+    background-color: white;
+    color: #FF389C;
+    border: 2px solid #FF389C;
+  }
